@@ -1,0 +1,4 @@
+export const SUCCESS_200 = 200
+export const VALIDATION_ERROR_403 = 403
+export const NOT_FOUND_ERROR_400 = 400
+export const UNPROCESSABLE_CONTENT_422 = 422
